@@ -92,21 +92,9 @@ Number of lobbyists found: 2
 ├── README.md              # This file
 ```
 
-## Contributing
-
-Feel free to fork this repository and submit pull requests for improvements or bug fixes. All contributions are welcome!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 ## Author
 
 Jessie Nouna  
 *Project maintained by Jessie Nouna.*
-
----
-
-This file now incorporates both `objecttier.py` and `datatier.py` to provide a clearer structure of how the modules work. Let me know if you’d like any further adjustments!
