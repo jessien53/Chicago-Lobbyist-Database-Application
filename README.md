@@ -22,12 +22,12 @@ This project is a **console-based application** that interacts with a database o
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/ChicagoLobbyistDatabase.git
+    git clone https://github.com/jessien53/Chicago-Lobbyist-Database-Application.git
     ```
 
 2. **Navigate to the project directory**:
     ```bash
-    cd ChicagoLobbyistDatabase
+    cd Chicago-Lobbyist-Database-Application
     ```
 
 3. **Ensure Python 3 is installed**. You can check the version with:
